@@ -1,0 +1,162 @@
+[
+  {
+    "pid": 1,
+    "productName": "Men's Shoes",
+    "productPrice": 89.99,
+    "description": "High-performance shoes for men",
+    "category": "Men",
+    "productImage":"https://ik.imagekit.io/n5ncqpecw/MenBasketballShoes.jpg?updatedAt=1695613445355"
+  },
+  {
+    "pid": 2,
+    "productName": "Women's Shorts",
+    "productPrice": 29.99,
+    "description": "Comfortable and stylish running shorts for women",
+    "category": "Women",
+    "productImage":"https://ik.imagekit.io/n5ncqpecw/WomensRunningShorts.jpg?updatedAt=1695613446224"
+  },
+  {
+    "pid": 3,
+    "productName": "Kids' Building Blocks",
+    "productPrice": 19.99,
+    "description": "Durable blocks for kids",
+    "category": "Kids",
+    "productImage":"https://m.media-amazon.com/images/I/616ASDfQb4L.jpg"
+  },
+  {
+    "pid": 4,
+    "productName": "Water Bottle",
+    "productPrice": 9.99,
+    "description": "Stay hydrated with this water bottle",
+    "category": "Accessories/Toys",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/SportsWaterBottle.jpg?updatedAt=1695613446425"
+  },
+  {
+    "pid": 5, 
+    "productName": "Men's Tennis Racket",
+    "productPrice": 149.99,
+    "description": "Professional-grade tennis racket for men",
+    "category": "Men",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/MensTennisRacket.jpeg?updatedAt=1695614750281"
+  },
+  {
+    "pid": 6,
+    "productName": "Yoga Mat",
+    "productPrice": 24.99,
+    "description": "Non-slip yoga mat for women",
+    "category": "Women",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/gymyogamat.jpeg?updatedAt=1695614745933"
+  },
+  {
+    "pid": 7,
+    "productName": "Kids' Bicycle Helmet",
+    "productPrice": 34.99,
+    "description": "Safety first with this kids' bicycle helmet",
+    "category": "Kids",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/kidsbicyclehelmet.jpeg?updatedAt=1695614750276"
+  },
+  {
+    "pid": 8,
+    "productName": "Soccer Goal Set",
+    "productPrice": 79.99,
+    "description": "Portable soccer goal set for backyard fun",
+    "category": "Accessories/Toys",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/soccergoalset.jpg?updatedAt=1695614750214"
+  },
+  {
+    "pid": 9,
+    "productName": "Men's Watch",
+    "productPrice": 39.99,
+    "description": "A watch is a portable timepiece worn on the wrist",
+    "category": "Men",
+    "productImage": "https://assets.ajio.com/medias/sys_master/root/20230605/kfZ9/647e238bd55b7d0c634ef646/-288Wx360H-466236833-black-MODEL.jpg"
+  },
+  {
+    "pid": 10,
+    "productName": "Shoes",
+    "productPrice": 79.99,
+    "description": "Lightweight and supportive running shoes for women",
+    "category": "Women",
+    "productImage": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/SKRNSH12058NPL.jpg"
+  },
+  {
+    "pid": 11,
+    "productName": "Men's Perfume",
+    "productPrice": 69.99,
+    "description": "Designed to enhance personal scent and evoke pleasant emotions",
+    "category": "Men",
+    "productImage": "https://assets.burberry.com/is/image/Burberryltd/941CA986-C91F-426D-9443-DFC0C76B9BDB?$BBY_V3_SL_1.36$&wid=581&hei=788"
+  },
+  {
+    "pid": 12,
+    "productName": "Rose Gold Ring",
+    "productPrice": 129.99,
+    "description": "Symbolizing love, commitment, and affiliation.",
+    "category": "Women",
+    "productImage": "https://www.jiomart.com/images/product/original/rvcvs5nbz4/fashion-frill-stunning-leaf-design-american-diamond-18k-rose-gold-plated-adjuable-ring-for-women-ring-fashionable-ring-jewellery-product-images-rvcvs5nbz4-0-202206031452.jpg?im=Resize=(500,630)"
+  },
+  {
+    "pid": 13,
+    "productName": "Kids' Skateboard",
+    "productPrice": 44.99,
+    "description": "Cool skateboard for kids",
+    "category": "Kids",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/kidsskateboard.jpeg?updatedAt=1695614746066"
+  },
+  {
+    "pid": 14,
+    "productName": "Gym Yoga Mat",
+    "productPrice": 29.99,
+    "description": "Thick and comfortable gym yoga mat",
+    "category": "Accessories/Toys",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/gymyogamat.jpeg?updatedAt=1695614745933"
+  },
+  {
+    "pid": 15,
+    "productName": "Men's Matte Black Bracelet",
+    "productPrice": 199.99,
+    "description": "Enhancing personal style and adding a touch of elegance to any outfit.",
+    "category": "Men",
+    "productImage": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/14864084/2021/7/29/6b7fe79d-57f3-410c-9769-1a83fcdb199a1627561867841BodhaMenBlackLeatherBracelet1.jpg"
+  },
+  {
+    "pid": 16,
+    "productName": "Pilgrim Hair Mask",
+    "productPrice": 29.99,
+    "description": "A hair mask is a deep conditioning treatment that nourishes, repairs, and revitalizes hair, leaving it soft, smooth, and more manageable.",
+    "category": "Women",
+    "productImage": "https://m.media-amazon.com/images/I/51Qyi-4ywsL.jpg"
+  },
+  {
+    "pid": 17,
+    "productName": "Kids' Baseball Glove",
+    "productPrice": 24.99,
+    "description": "Baseball glove for young athletes",
+    "category": "Kids",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/kidsbaseballglove.jpeg?updatedAt=1695614745855"
+  },
+  {
+    "pid": 18,
+    "productName": "Table Tennis Set",
+    "productPrice": 49.99,
+    "description": "Table tennis set for family fun",
+    "category": "Accessories/Toys",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/tabletennisset.jpeg?updatedAt=1695614746072"
+  },
+  {
+    "pid": 19,
+    "productName": "Men's Running Jacket",
+    "productPrice": 59.99,
+    "description": "Water-resistant running jacket for men",
+    "category": "Men",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/mensrunningjacket.jpeg?updatedAt=1695615323698"
+  },
+  {
+    "pid": 20,
+    "productName": "Women's Hiking Boots",
+    "productPrice": 79.99,
+    "description": "Durable hiking boots for women",
+    "category": "Women",
+    "productImage": "https://ik.imagekit.io/n5ncqpecw/womensrunningshoes.jpeg?updatedAt=1695614745950"
+  }
+]
